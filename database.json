@@ -71,6 +71,11 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Jury Byrd",
+            "specialty": "Audio"
         }
     ],
     "serviceTickets": [
@@ -85,7 +90,7 @@
         {
             "id": 2,
             "customerId": 7,
-            "employeeId": 4,
+            "employeeId": 3,
             "description": "Cannot connect to any wifi.",
             "emergency": true,
             "dateCompleted": ""
